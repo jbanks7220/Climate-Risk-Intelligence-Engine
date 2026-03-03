@@ -9,7 +9,7 @@ Built with **Python**, **Streamlit**, **Facebook Prophet**, **Monte Carlo uncert
 
 ## Live Demo
 
-[![View Live Demo](https://img.shields.io/badge/View%20Live%20Demo-1e40af?style=for-the-badge&logo=google-chrome&logoColor=white)](https://climatelens-nhzg.onrender.com//)
+[![View Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://climatelens-nhzg.onrender.com/)
 
 
 ## Video Demo
