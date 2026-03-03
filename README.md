@@ -7,6 +7,16 @@ Built with **Python**, **Streamlit**, **Facebook Prophet**, **Monte Carlo uncert
 
 ---
 
+## Live Demo
+
+[![View Live Demo](https://img.shields.io/badge/View%20Live%20Demo-1e40af?style=for-the-badge&logo=google-chrome&logoColor=white)](https:https://climatelens-nhzg.onrender.com/)
+
+---
+
+## Video Demo
+
+https://github.com/user-attachments/assets/18ac7e1a-2e93-4df0-92c2-6b6ce868e1c2
+
 ## 🚀 Key Features
 
 ### ✔ Real-Time Climate Forecasting
