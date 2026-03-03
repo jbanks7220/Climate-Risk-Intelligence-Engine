@@ -108,7 +108,7 @@ GDP baseline is retrieved from the World Bank API.
 
 ### 8️⃣ Dashboard Visualization
 
-Built using:
+### Built using:
 
 - Plotly (interactive charts and maps)
 
@@ -182,12 +182,13 @@ http://localhost:8501
 
 The sidebar provides adjustable parameters:
 
-Setting	Description
-Primary Country	Country for base analysis
-Comparison Country	Optional second country
-Indicator	CO₂, GHG, energy, per capita emissions
-Forecast Years	10–100 year horizon
-Annual Reduction (%)	Emission reduction policy scenario
+| Setting	| Description |
+| :--- | ---: |
+| Primary Country |	Country for base analysis |
+| Comparison Country |	Optional second country |
+| Indicator	| CO₂, GHG, energy, per capita emissions |
+| Forecast Years |	10–100 year horizon |
+| Annual Reduction (%)	| Emission reduction policy scenario |
 
 ## 📊 Outputs & Analytics Provided
 ### Climate Metrics
