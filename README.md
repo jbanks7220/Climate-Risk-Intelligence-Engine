@@ -102,45 +102,45 @@ GDP baseline is retrieved from the World Bank API.
 
 ### 7️⃣ Sea Level & Human Impact Models
 
-Sea-level rise = cumulative emissions × sensitivity factor
+- Sea-level rise = cumulative emissions × sensitivity factor
 
-Mortality and displacement scaled from peer-reviewed research
+- Mortality and displacement scaled from peer-reviewed research
 
 ### 8️⃣ Dashboard Visualization
 
 Built using:
 
-Plotly (interactive charts and maps)
+- Plotly (interactive charts and maps)
 
-Streamlit (UI, controls, layout)
+- Streamlit (UI, controls, layout)
 
-Dynamic metrics for:
+- Dynamic metrics for:
 
-Temperature
+- Temperature
 
-GDP
+- GDP
 
-Sea level
+- Sea level
 
-Mortality
+- Mortality
 
-Displacement
+- Displacement
 
 ### 9️⃣ Professional Report Generator
 
-Exports a fully formatted HTML report including:
+- Exports a fully formatted HTML report including:
 
-Executive summary
+- Executive summary
 
-Forecast charts
+- Forecast charts
 
-Economic projections
+- Economic projections
 
-Flood risk map
+- Flood risk map
 
-Academic references
+- Academic references
 
-Full methodology
+- Full methodology
 
 ## 📦 Installation
 ### 1. Clone the Repository
@@ -154,19 +154,19 @@ pip install -r requirements.txt
 ```
 Required libraries include:
 
-streamlit
+- streamlit
 
-prophet
+- prophet
 
-pandas
+- pandas
 
-numpy
+- numpy
 
-requests
+- requests
 
-pycountry
+- pycountry
 
-plotly
+- plotly
 
 ### ▶️ Running the Dashboard
 
@@ -192,29 +192,29 @@ Annual Reduction (%)	Emission reduction policy scenario
 ## 📊 Outputs & Analytics Provided
 ### Climate Metrics
 
-Emissions projections
+- Emissions projections
 
-Temperature increase
+- Temperature increase
 
-Sea-level rise
+- Sea-level rise
 
 ### Economic Metrics
 
-GDP damage percentage
+- GDP damage percentage
 
-Dollar-value economic loss
+- Dollar-value economic loss
 
-Climate-adjusted vs. baseline GDP
+- Climate-adjusted vs. baseline GDP
 
 ### Human Metrics
 
-Climate-related mortality
+- Climate-related mortality
 
-Climate displacement
+- Climate displacement
 
 ### Geospatial Metrics
 
-Country-level flood risk index map
+- Country-level flood risk index map
 
 ## 🔬 Scientific Methodologies Used
 Component	Method / Citation
@@ -229,19 +229,19 @@ Uncertainty Modeling	Monte Carlo (500 runs)
 
 Click the “Export Professional Climate Intelligence Report” button to download a styled, multi-section HTML report containing:
 
-Executive summary
+- Executive summary
 
-Scientific projections
+- Scientific projections
 
-Interactive charts
+- Interactive charts
 
-Economic modeling
+- Economic modeling
 
-Risk maps
+- Risk maps
 
-Full methodology
+- Full methodology
 
-Citations
+- Citations
 
 ## 📚 Project Structure
 ```
