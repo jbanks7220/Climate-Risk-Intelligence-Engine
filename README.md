@@ -183,7 +183,7 @@ http://localhost:8501
 The sidebar provides adjustable parameters:
 
 | Setting	| Description |
-| :--- | ---: |
+| :--- | :--- |
 | Primary Country |	Country for base analysis |
 | Comparison Country |	Optional second country |
 | Indicator	| CO₂, GHG, energy, per capita emissions |
